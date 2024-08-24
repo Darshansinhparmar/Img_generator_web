@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #1a1818;
+    color: aqua;
+}
+
+.container {
+    text-align: center;
+}
+
+#image-container img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ed2626;
+    border-radius: 5px;
+    margin-top: 20px;
+}
